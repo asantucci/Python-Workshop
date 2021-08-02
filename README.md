@@ -11,3 +11,5 @@ Topics covered
 Note that the course notes in this repository are intended to be read through in sequence according to the numerical prefixes in each filename. I.e. we anticipate that learners know all of the information in `1_Introduction_to_Python` before moving on to `2_Numerical_Python`, etc.
 
 If you're curious for more course notes, please see lectures 0-8 from CME 211: https://github.com/CME211/notes#cme-211-notes.
+
+Note: if upon opening the appendix notebook, it stats `Notebook Not Found` try clicking `Authorize with GitHub`, then log in with GitHub: a new pop-up window will appear where you should select `asantucci/Python-Workshop` as the Repository and `main` as the Branch, and then (scroll down to) click on file `4_Appendix_Scikit_learn.ipynb`. The notebook should then open in Colab!
